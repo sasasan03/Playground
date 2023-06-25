@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='map'/>
+        <page name='immutableな値を書き換える'/>
+        <page name='クロージャ基礎'/>
+        <page name='(Child)changeFalseメソッド'/>
+        <page name='あきおさんのトップ'/>
+        <page name='delegate①'/>
+        <page name='delegate②'/>
+        <page name='delegate③'/>
+        <page name='TableView'/>
+        <page name='willSet,DidSet'/>
+        <page name='オプショナルの勉強'/>
+        <page name='SlotApp'/>
+        <page name='個人開発・検索機能'/>
+        <page name='タグ検索機能'/>
+        <page name='UIKit課題14(TextFieldの変換)'/>
+    </pages>
+</playground>
